@@ -155,3 +155,8 @@ examples/pattern_matching/repository/*.json
 !.gitignore
 
 scratchpad
+
+# Virtual environments folders
+Scripts/
+Lib/
+pyvenv.cfg
